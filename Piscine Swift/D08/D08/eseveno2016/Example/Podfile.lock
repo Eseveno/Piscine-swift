@@ -1,0 +1,16 @@
+PODS:
+  - eseveno2016 (0.1.0)
+
+DEPENDENCIES:
+  - eseveno2016 (from `../`)
+
+EXTERNAL SOURCES:
+  eseveno2016:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  eseveno2016: 7c0a653662c0d6b4bc79da3f26f9fc6a4f47fae5
+
+PODFILE CHECKSUM: 08824a7defc14b09903216f0f3f1aedb67e0b58d
+
+COCOAPODS: 1.0.1

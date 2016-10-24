@@ -1,0 +1,22 @@
+{
+  "name": "eseveno2016",
+  "version": "0.1.0",
+  "summary": "A short description of eseveno2016.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/eseveno2016",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "seveno": "seveno.erwan@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/eseveno2016.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "eseveno2016/Classes/**/*"
+}

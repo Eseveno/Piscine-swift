@@ -1,0 +1,6 @@
+framework module eseveno2016 {
+  umbrella header "eseveno2016-umbrella.h"
+
+  export *
+  module * { export * }
+}
